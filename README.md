@@ -9,10 +9,8 @@
 **Vercel Deployment:**
 
 ```
-🌐 Live URL: [Add your Vercel link here]
+https://direct-bt.vercel.app/guide.html
 ```
-
-> _Replace the above with your actual Vercel deployment URL after deploying._
 
 ---
 
@@ -148,16 +146,6 @@ DBT-Aadhaar-Seeding-Portal/
 
 ## 🎨 CSS Overview (`styles.css`)
 
-### Design System (CSS Variables)
-```css
---primary-blue: #2563eb
---primary-orange: #f97316
---dark-blue: #1e40af
---success-green: #059669
---warning-yellow: #d97706
---error-red: #dc2626
-```
-
 ### Key CSS Features
 | Feature | Implementation |
 |---------|----------------|
@@ -206,7 +194,6 @@ Language selector supports:
 | **CSS3** | Styling, animations, responsive design, CSS variables |
 | **JavaScript (Vanilla)** | DOM manipulation, search, filters, form handling, accessibility |
 | **Google Fonts (Inter)** | Clean, modern typography |
-| **Pexels Image** | Hero section image (free stock photo, external URL) |
 | **Inline SVG** | Government emblem and Digital India / DBT Mission logos |
 
 > No frameworks or libraries used — pure HTML, CSS, and JavaScript.
@@ -238,47 +225,6 @@ python -m http.server 8000
 
 ---
 
-## ☁️ Deployment on Vercel
-
-### Steps to Deploy:
-
-**Step 1 — Push to GitHub**
-```bash
-git init
-git add .
-git commit -m "Initial commit - DBT Awareness Portal"
-git remote add origin https://github.com/your-username/dbt-portal.git
-git push -u origin main
-```
-
-**Step 2 — Deploy on Vercel**
-1. Go to [https://vercel.com](https://vercel.com) and sign in with GitHub
-2. Click **"Add New Project"**
-3. Select your GitHub repository
-4. Framework preset: **Other** (plain HTML project)
-5. Root directory: `/` (leave default)
-6. Click **"Deploy"**
-
-**Step 3 — Get your live URL**
-```
-Your site will be live at:
-https://your-project-name.vercel.app
-```
-
-> Update the Live Demo link at the top of this README after deploying.
-
----
-
-## 📱 Responsive Breakpoints
-
-| Breakpoint | Target Device |
-|------------|---------------|
-| `> 768px` | Desktop and tablet landscape |
-| `≤ 768px` | Tablets and large phones |
-| `≤ 480px` | Small mobile phones |
-
----
-
 ## 📂 Key Sections Summary
 
 | Page | Sections Count | Interactive Features |
@@ -296,12 +242,10 @@ https://your-project-name.vercel.app
 
 | Field | Details |
 |-------|---------|
-| **Name** | Naman Saini |
-| **Institution** | GLBITM, Greater Noida (AKTU Affiliated) |
+| **Name** | Naman |
+| **Institution** | GLBITM, Greater Noida |
 | **Branch** | B.Tech CSE — 2nd Year |
-| **Email** | saininaman643@gmail.com |
 | **LinkedIn** | [linkedin.com/in/naman-sainib19967333](https://linkedin.com/in/naman-sainib19967333) |
-| **GitHub** | [github.com/your-username](https://github.com/your-username) |
 
 ---
 
@@ -317,4 +261,4 @@ This project is open for educational use. Feel free to fork and improve.
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: 2026*
